@@ -1,4 +1,4 @@
-# RBE549_Computer_Vision_Project 3 (NeRF Part)
+# Neural Radiance Field (NeRF)
 
 Place the lego data files (images and .json files) inside the following location:
 ```json
